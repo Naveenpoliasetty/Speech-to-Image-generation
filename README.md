@@ -22,7 +22,7 @@ Welcome to the Whisper-Stable-Diffusion Fusion Project! This project is dedicate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/whisper-stable-diffusion-fusion.git
+   git clone 
    ```
 
 2. Install the required dependencies:
@@ -65,12 +65,8 @@ Adjust the configuration parameters in the `config.yml` file to customize the be
 
 ## Credits
 
-- **Whisper:** Developed by llava-hf/llava-1.5-7b-hf (link to the Whisper repository)
-- **Stable Diffusion:** Developed by [Author of Stable Diffusion] (link to the Stable Diffusion repository)
-
-## License
-
-This project is licensed under the [Your License] - see the [LICENSE](LICENSE) file for details.
+- **Whisper:** https://github.com/openai/whisper
+- **Stable Diffusion:** https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
 
 ## Acknowledgments
 
