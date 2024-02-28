@@ -22,7 +22,7 @@ Welcome to the Whisper-Stable-Diffusion Fusion Project! This project is dedicate
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Naveenpoliasetty/Speech-to-Image-generation
    ```
 
 2. Install the required dependencies:
